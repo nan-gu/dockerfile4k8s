@@ -1,0 +1,2 @@
+From us.gcr.io/k8s-artifacts-prod/cluster-api-aws/cluster-api-aws-controller:v0.5.3.
+MAINTAINER Nan Gu <nang@vmware.com>
